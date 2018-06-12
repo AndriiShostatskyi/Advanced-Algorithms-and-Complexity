@@ -1,6 +1,6 @@
 /*
  * Coursera/Advanced Algorithms and Complexity/Week 3/Problem 2:
- * Cleaning the Apartment(reduce Hamiltonian path to SAT)
+ * Cleaning the Apartment (reduce Hamiltonian path to SAT)
  * Grading: 'Good job! (Max time used: 0.03/2.00, max memory used: 9904128/536870912.)'
  * Author: Andrii Shostatskyi
  * Email: shostatskyi.andrii@gmail.com

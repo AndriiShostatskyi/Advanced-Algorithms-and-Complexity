@@ -1,6 +1,6 @@
 /*
  * Coursera/Advanced Algorithms and Complexity/Week 4/Problem 1:
- * Integrated Circuit Design(solve 2-SAT problem)
+ * Integrated Circuit Design (solve 2-SAT problem)
  * Grading: 'Good job! (Max time used: 0.14/1.00, max memory used: 31760384/1073741824.)'
  * Author: Andrii Shostatskyi
  * Email: shostatskyi.andrii@gmail.com
